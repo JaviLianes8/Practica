@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainBombilla
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=contador
+comment2.target=int\ Continuar(int)
+comment3.params=BombillaDormitorio\ BombillaSalon\ BombillaCocina\ numeromenu
+comment3.target=void\ menu(Bombilla,\ Bombilla,\ Bombilla,\ int)
+numComments=4

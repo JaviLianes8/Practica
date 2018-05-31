@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Punto2D
+comment1.params=x\ y
+comment1.target=void\ darvalor(int,\ int)
+comment2.params=
+comment2.target=int\ leerCoordenadaX()
+comment3.params=
+comment3.target=int\ leerCoordenadaY()
+comment4.params=
+comment4.target=int\ CalcularCuadrante()
+comment5.params=x\ y
+comment5.target=Punto2D(int,\ int)
+comment6.params=p
+comment6.target=Punto2D(Punto2D)
+comment7.params=
+comment7.target=int\ CrearPuntoX()
+numComments=8

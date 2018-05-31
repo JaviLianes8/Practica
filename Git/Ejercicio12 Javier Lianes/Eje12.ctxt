@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Eje12
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=aux
+comment2.target=int\ PedirValor(int)
+comment3.params=aux
+comment3.target=int[]\ pedirarray(int)
+comment4.params=x\ y
+comment4.target=java.lang.String\ CalculoCuadrante(int,\ int)
+comment5.params=x1\ x2\ y1\ y2\ num
+comment5.target=int\ CalculoMedio(int,\ int,\ int,\ int,\ int)
+comment6.params=x1\ x2\ y1\ y2
+comment6.target=double\ Distancia(int,\ int,\ int,\ int)
+comment7.params=
+comment7.target=boolean\ terminar()
+numComments=8
